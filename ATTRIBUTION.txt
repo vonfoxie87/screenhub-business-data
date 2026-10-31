@@ -1,0 +1,3 @@
+Data: OpenStreetMap contributors
+Licentie: ODbL 1.0
+https://www.openstreetmap.org/copyright
