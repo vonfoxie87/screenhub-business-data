@@ -1,0 +1,3 @@
+Address source: OpenStreetMap contributors (ODbL 1.0).
+https://www.openstreetmap.org/copyright
+This dataset is not the official Dutch BAG.
